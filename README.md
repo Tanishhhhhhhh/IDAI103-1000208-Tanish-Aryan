@@ -34,4 +34,6 @@ Input Section: Users can provide prompts detailing their fashion preferences.
 Recommendation Display: Recommendations are generated and displayed in real-time.
 Error Handling: Ensures smooth functionality by catching and handling errors.
 
-Prompts- 
+.py file- https://drive.google.com/file/d/1QtOnkmWP_xzvnw4IzTyOuuYUyuhJ_QEq/view?usp=sharing
+
+Prompts & Outputs- https://drive.google.com/file/d/17UtxKI_4F6AVYaNt4TZPX0QeQtz5iwoR/view?usp=sharing
