@@ -1,5 +1,3 @@
-Let me create a detailed description for each section in the specified order. I will then save it into a downloadable Word file for you.
-
 ---
 
 ### 1. **Problem Definition and Research**  
@@ -43,5 +41,6 @@ Optimization focused on refining the model’s adaptability to different use cas
 ---
 
 .py file- https://drive.google.com/file/d/1QtOnkmWP_xzvnw4IzTyOuuYUyuhJ_QEq/view?usp=sharing
-
+---
 Prompts & Outputs- https://drive.google.com/file/d/17UtxKI_4F6AVYaNt4TZPX0QeQtz5iwoR/view?usp=sharing
+---
