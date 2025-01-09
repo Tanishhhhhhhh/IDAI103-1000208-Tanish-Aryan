@@ -32,7 +32,7 @@ The system delivers structured outputs with clear formatting, ensuring users can
 ---
 
 ### 5. **Model Validation and Optimization**  
-The system was tested on **Python 3.12**, ensuring compatibility and efficiency. Validation included diverse test scenarios to confirm:  
+The system was tested on **'Python 3.12'**, ensuring compatibility and efficiency. Validation included diverse test scenarios to confirm:  
 - Accurate and relevant outputs.  
 - Minimal latency for user interactions.  
 - Robust performance across all defined prompts.  
